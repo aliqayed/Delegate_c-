@@ -1,2 +1,1 @@
-# Delegate_c-
-Delegate And Event And Implement
+# Delegate_c#
